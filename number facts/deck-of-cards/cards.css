@@ -1,0 +1,12 @@
+body{
+    background-color: green;
+}
+
+.card-pile{
+    position: relative;
+    padding-left: auto;
+}
+
+.card-pile img {
+    position: absolute;
+}
